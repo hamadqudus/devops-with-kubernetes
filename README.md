@@ -1,7 +1,9 @@
 # DevOps with Kubernetes
 
-## Exercise 1.1 - Log output
+Exercises for the University of Helsinki DevOps with Kubernetes course.
 
-A simple application that generates a random string when it starts and outputs the string with a timestamp every 5 seconds.
+## Exercises
 
-The application is deployed to a local Kubernetes cluster using k3d.
+| Exercise | Application | Release |
+|---|---|---|
+| [1.1](./log-output) | [Log output](./log-output) | [Release 1.1](https://github.com/hamadqudus/devops-with-kubernetes/releases/tag/1.1) |
